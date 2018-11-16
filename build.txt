@@ -1,0 +1,4 @@
+author = valkyrienyanko
+version = 1.0.1
+displayName = Brighter Torches
+homepage = https://discord.gg/thMupbv

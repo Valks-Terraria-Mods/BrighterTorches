@@ -1,0 +1,4 @@
+Makes torches 50% brighter.
+
+v1.01
+Removed redundant code.
