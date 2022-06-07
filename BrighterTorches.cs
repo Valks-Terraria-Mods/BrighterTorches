@@ -1,11 +1,9 @@
-using Terraria.ModLoader;
+global using Terraria.ID;
+global using Terraria.ModLoader;
 
-namespace BrighterTorches
+namespace BrighterTorches;
+
+public class BrighterTorches : Mod
 {
-	class BrighterTorches : Mod
-	{
-		public BrighterTorches()
-		{
-		}
-	}
+
 }

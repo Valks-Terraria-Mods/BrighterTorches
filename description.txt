@@ -1,4 +1,3 @@
-Makes torches 50% brighter.
+Makes all torches 50% brighter.
 
-v1.01
-Removed redundant code.
+Source: https://github.com/Valks-Terraria-Mods/TorchFriend
